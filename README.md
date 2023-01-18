@@ -1,5 +1,5 @@
 # JumpstartFramework
-This is the official repository for the Jumpstart Backend Framework for Unity
+This is the official repository for the Jumpstart Framework for Unity
 
 ## Getting Started
 
