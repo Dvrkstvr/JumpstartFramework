@@ -21,4 +21,4 @@ After cloning or downloading the repository, open the root folder in the Plugins
 
 ## Licence
 
-This project is licensed under the 
+This project is licensed under the MPL-2.0 license
