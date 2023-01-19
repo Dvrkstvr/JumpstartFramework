@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ba6834b99b6edf94d9b17475c09589eb
+  m_SerializeEntries:
+  - m_GUID: 6ea315d0fd7389c41b19996891e99ae3
+    m_Address: Assets/Example/Scenes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d680b72db3698145b2dbf66fe09bc71
+    m_Address: Assets/Example/ScriptableObjects/Events/New Load Game Event SO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ba0d1dc76878a64b91895e9d276dbe4
+    m_Address: Assets/Example/ScriptableObjects/Events/SceneManagement/ColdStart
+      Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3a81168effa04cb40beb52d2089e57cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3555444b0f0dd2c47b9d3a4044eea68d, type: 2}
+    - {fileID: 11400000, guid: fbea716428dae96458d48be9c7350057, type: 2}
